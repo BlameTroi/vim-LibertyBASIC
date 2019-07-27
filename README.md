@@ -5,7 +5,15 @@ Liberty BASIC source code.
 
 Liberty BASIC is a small but effective BASIC implementation
 for desktop environments. See https://libertybasic.com/ for
-more information.
+more information about the language.
+
+## what this package provides
+
+Simple indent and syntax highlighting. I prefer to use indent
+as my foldmethod so the syntax doesn't attempt to support
+folding.
+
+## installation
 
 Note that Liberty BASIC uses the .bas file extension,
 which conflicts with the vim standard installation version
@@ -19,7 +27,7 @@ filetype.vim, change it as follows. If you do not, copy the
 installation copy of filetype.vim to your ~/.vim/ directory
 and then change it.
 
-## filetype.vim changes
+### filetype.vim changes
 
 around line 197, reading "BASIC or Visual Basic", replace the line
 
