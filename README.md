@@ -4,8 +4,12 @@ A minimal set of vim script files to support editing of
 Liberty BASIC source code.
 
 Liberty BASIC is a small but effective BASIC implementation
-for desktop environments. See https://libertybasic.com/ for
-more information about the language.
+for desktop environments. See https://www.libertybasic.com/
+for more information about the language.
+
+*note* Just BASIC is a free subset of Liberty BASIC. These
+files can be used for Just BASIC as well. See https://www.justbasic.com/
+for more information.
 
 ## what this package provides
 
