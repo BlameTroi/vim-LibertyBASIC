@@ -1,5 +1,7 @@
 # vim-LibertyBASIC
 
+> Archiving as I consider this complete.
+
 A minimal set of vim script files to support editing of
 Liberty BASIC source code.
 
